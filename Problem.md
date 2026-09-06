@@ -11,3 +11,6 @@ Step 5: Otherwise, N is an odd number.
 Step 6: Display whether the number is even or odd.
 
 Step 7: Stop
+
+
+- **Example:** 8 is even, while 7 is odd.
