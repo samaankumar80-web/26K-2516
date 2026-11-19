@@ -1,0 +1,10 @@
+1,Ali Khan,85.5
+2,Sara Ahmed,92
+3,Ahmed Raza,78.25
+4,Fatima Noor,88
+5,Hassan Ali,67.5
+6,Zainab Malik,95.75
+7,Bilal Hussain,73
+8,Ayesha Siddiqui,81.25
+9,Usman Tariq,59.5
+10,Hira Baig,90
